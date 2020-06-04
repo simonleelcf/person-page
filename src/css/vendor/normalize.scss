@@ -1,0 +1,39 @@
+a {
+  color: #49515d;
+  text-decoration: none;
+  outline: none;
+}
+
+a:hover {
+  color: #49515d;
+  outline: none;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #212121;
+  font-family: "Montserrat", Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.5em;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0 0 10px;
+  font-weight: 400;
+}
+
+li {
+  list-style-type: none;
+  margin: 5px 20px;
+}
